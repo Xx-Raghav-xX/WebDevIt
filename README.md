@@ -1,2 +1,2 @@
 # WebDevIt
-WebDevIt showcase Website
+WebDevIt showcase Website to showcase dynamic websites.
